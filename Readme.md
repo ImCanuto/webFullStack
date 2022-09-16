@@ -1,0 +1,1 @@
+Repositório contendo toda as minhas aulas, atividades, projetos e toda a minha evolução ao longo do curso de Desenvolvivento Web Full Stack que estou participando.
