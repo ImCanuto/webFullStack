@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/estruturas-condicionais/estruturas-condicionais.iml" filepath="$PROJECT_DIR$/Java/estruturas-condicionais/estruturas-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/Java/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/manipulacao-de-strings-e-data/manipulacao-de-strings-e-data.iml" filepath="$PROJECT_DIR$/Java/manipulacao-de-strings-e-data/manipulacao-de-strings-e-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/operadores-booleanos/operadores-booleanos.iml" filepath="$PROJECT_DIR$/Java/operadores-booleanos/operadores-booleanos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/Java/variaveis/variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webFullStack.iml" filepath="$PROJECT_DIR$/.idea/webFullStack.iml" />
+    </modules>
+  </component>
+</project>
